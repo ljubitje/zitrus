@@ -5,7 +5,8 @@ its beautiful chaos needs order; i gave it zitrus
 
 ## 🌱 status:
 - picking a music database
-- picking a gui
+- looking for universal music provider api
+- gui: learning Dart and Flutter
 
 ## 🔮 upcoming:
 - make playlists from any source
@@ -17,5 +18,5 @@ its beautiful chaos needs order; i gave it zitrus
 - store streamed files offline for later playback
 
 ## 👥 name isn't final. candidates?
-zitrus. soundweaver, nightweaver. nightsong. soundbloom. bloombox! muse.  
+zitrus. soundweaver. nightsong. soundbloom. bloombox! muse.  
 and anything else you suggest (:
